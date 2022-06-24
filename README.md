@@ -98,11 +98,7 @@ for i in range(0,9):
 ![t5](https://user-images.githubusercontent.com/75235704/171363398-cd11fd0a-b842-45eb-b840-dd04103ae771.png)
 ![t6](https://user-images.githubusercontent.com/75235704/171363425-d6a424bf-e3d6-4880-8abb-5fc9fc3da018.png)
 
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### Adaptive Thresholding
 
