@@ -88,6 +88,8 @@ for i in range(0,9):
 ![t8](https://user-images.githubusercontent.com/75235704/171363497-e06247e1-2c38-4626-bfd6-69e07bb42dc6.png)
 
 <br>
+<br>
+<br>
 
 ### Optimum Global Thesholding using Otsu's Method
 ![t9](https://user-images.githubusercontent.com/75235704/171363528-d5a71f64-3cd5-42fb-aec0-f68ae0467000.png)
