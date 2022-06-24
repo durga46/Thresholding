@@ -10,30 +10,20 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 
 ## Algorithm
 ### Step1:
-<br>
 Load the necessary packages.
-
 ### Step2:
-<br>
 Read the Image and convert to grayscale.
-
 ### Step3:
-<br>
 Use Global thresholding to segment the image.
-
 ### Step4:
-<br>
 Use Adaptive thresholding to segment the image
 ### Step5:
-<br>
 Use Otsu's method to segment the image.
-### Step6::
-<br>
+### Step6:
 Display the results.
 
 
 ## Program
-
 ```python
 # Load the necessary packages
 import cv2
@@ -79,14 +69,8 @@ for i in range(0,9):
     plt.show()
 ```
 ## Output
-
 ### Original Image
 ![t1](https://user-images.githubusercontent.com/75235704/171362997-bef5b79c-3aff-4e25-a510-13d9e3653cd4.png)
-
-<br>
-<br>
-<br>
-<br>
 <br>
 
 ### Global Thresholding
@@ -98,28 +82,16 @@ for i in range(0,9):
 ![t5](https://user-images.githubusercontent.com/75235704/171363398-cd11fd0a-b842-45eb-b840-dd04103ae771.png)
 ![t6](https://user-images.githubusercontent.com/75235704/171363425-d6a424bf-e3d6-4880-8abb-5fc9fc3da018.png)
 
-
-
 ### Adaptive Thresholding
 
 ![t7](https://user-images.githubusercontent.com/75235704/171363479-e0ba6b0b-d037-49ec-a2d6-a14a1cb1efac.png)
 ![t8](https://user-images.githubusercontent.com/75235704/171363497-e06247e1-2c38-4626-bfd6-69e07bb42dc6.png)
 
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ### Optimum Global Thesholding using Otsu's Method
 ![t9](https://user-images.githubusercontent.com/75235704/171363528-d5a71f64-3cd5-42fb-aec0-f68ae0467000.png)
-
 <br>
-<br>
-<br>
-<br>
-<br>
-
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
